@@ -2,7 +2,7 @@
 
 > Author: Jeff Currier
 ***
-> [Repo link](https://github.com/jefferytcurrier/CourseProject_GACD)
+> [https://github.com/jefferytcurrier/CourseProject_GACD](https://github.com/jefferytcurrier/CourseProject_GACD)
 
 ***
 
